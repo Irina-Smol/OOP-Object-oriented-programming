@@ -1,3 +1,4 @@
+# y(t=0.1; v0=3)
 class Y:
     def __init__(self, v0):
         self.v0 = v0
